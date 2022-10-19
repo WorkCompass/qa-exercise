@@ -13,4 +13,4 @@ The created document should have:
 2. At least 1 or more Test cases
 3. At least 1 or more Acceptance criteria
 4. A list of any improvement suggestions
-5. A report of anything you consider relevant
+5. A report or any additional information you consider relevant
