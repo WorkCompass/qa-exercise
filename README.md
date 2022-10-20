@@ -14,3 +14,9 @@ The created document should have:
 3. At least 1 or more Acceptance criteria
 4. A list of any improvement suggestions
 5. A report or any additional information you consider relevant
+
+## Submission
+
+You can send your Google Document or any other text documentation that you created back to us by email.
+
+Thank you very much for you participation!
